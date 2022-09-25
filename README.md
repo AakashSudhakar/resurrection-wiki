@@ -1,14 +1,13 @@
-<h2 align="center">
+<h3 align="center">
     <br>
         <kbd><img src="assets/Logo_Main.png" alt="S:R Main Logo" title="Main logo for Sekiro: Resurrection." width=100 height=100 style="border-radius:25%"/></kbd>
     <br>
-</h2>
+</h3>
 
 ![-----------------------------------------------------](assets/LineBreak_Fire.png)
 
 <div style="background: #333333; padding: 5px; outline: none; border-radius: 50px;">
-    <h2 align="center"> <b>SEKIRO: RESURRECTION</b></h2>
-    <h3 align="center"> <b>Official Wiki</b></h3>
+    <h3 align="center"> <b>Official Wiki</b> for <b><big>SEKIRO: RESURRECTION</big></b></h3>
 </div>
 
 <h5 align="center"> Curated and maintained by the <b><a href="">development team</a></b> and <b><a href="https://discord.gg/pRz8pQAbUz">community</a></b>. </h5>
