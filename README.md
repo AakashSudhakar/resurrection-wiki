@@ -109,7 +109,7 @@ Once you have the relevant mod files, you'll need to follow the following steps 
 
 <h3 id="guide-by-melody"><b> 📌 Video Installation Tutorial</b></h3>
 
-For a more detailed visual walkthrough of how to install, set up, and test your copy of Sekiro: Resurrection, watch the following video tutorial by <a href=""><b>@melodious-shark</b></a>, a resident modder and project contributor!
+For a more detailed visual walkthrough of how to install, set up, and test your copy of Sekiro: Resurrection, watch the following video tutorial by <a href="https://github.com/melodious-shark"><b>@melodious-shark</b></a>, a resident modder and project contributor!
 
 <h3 align="center">
     <figure>
