@@ -1,28 +1,24 @@
 <h2 align="center">
     <br>
-        <img src="assets/Logo_Main.png" alt="S:R Main Logo" title="Main logo for Sekiro: Resurrection." width=100 height=100 style="border-radius:25%"/>
+        <kbd><img src="assets/Logo_Main.png" alt="S:R Main Logo" title="Main logo for Sekiro: Resurrection." width=100 height=100 style="border-radius:25%"/></kbd>
     <br>
 </h2>
 
 ![-----------------------------------------------------](assets/LineBreak_Fire.png)
 
-<br>
 <div style="background: #333333; padding: 5px; outline: none; border-radius: 50px;">
+    <h2 align="center"> <b>SEKIRO: RESURRECTION</b></h2>
     <h3 align="center"> <b>Official Wiki</b></h3>
-    <h5 align="center"> for </h5>
-    <h2 align="center"> <b>SEKIRO: RESURRECTION</b> </h2>
 </div>
-
-<br>
 
 <h5 align="center"> Curated and maintained by the <b><a href="">development team</a></b> and <b><a href="https://discord.gg/pRz8pQAbUz">community</a></b>. </h5>
 <p align="center">
-    <img src="assets/CoverArt_MortalBladeClash.png" alt="Mortal Blade Clash" title="Cover art depicting Wolf and Genichiro dueling with both Mortal Blades." style="border-radius:2%"/>
+    <kbd><img src="assets/CoverArt_MortalBladeClash.png" alt="Mortal Blade Clash" title="Cover art depicting Wolf and Genichiro dueling with both Mortal Blades." style="border-radius:2%"/></kbd>
 <p>
 <br>
 
 <details>
-<summary style="background: #333333;padding: 10px; outline: none; border-radius: 50px; font-size: 125%"><b>📖 Table of Contents</b></summary>
+<summary style="background: #333333;padding: 10px; outline: none; border-radius: 50px; font-size: 125%"><b>📖 TABLE OF CONTENTS</b></summary>
 <br>
 
 ![-----------------------------------------------------](assets/LineBreak_Fire.png)
