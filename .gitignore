@@ -1,6 +1,8 @@
 # Junk Files
 .DS_Store
 */.DS_Store
+*.icloud
+*/*.icloud
 
 # Disused Assets (Temporary)
 assets/Banner_*.png
