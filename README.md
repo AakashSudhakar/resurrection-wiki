@@ -116,7 +116,7 @@ For a more detailed visual walkthrough of how to install, set up, and test your 
         <a href="https://www.youtube.com/watch?feature=player_embedded&v=SOGHTE6jXA4" target="_blank">
             <kbd><img src="assets/Screenshot_SRVideoInstallGuide.png" alt="Watch this tutorial!" height="75%" width="75%" /></kbd>
         </a>
-        <h5><i>Video tutorial on installing Sekiro: Resurrection.</i></h5>
+        <h5 align="center"><i>Video tutorial on installing Sekiro: Resurrection.</i></h5>
     </figure>
 </h3>
 
