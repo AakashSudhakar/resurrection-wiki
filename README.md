@@ -24,8 +24,8 @@
 
 <br>
 <ol>
-    <li><a style="font-size: 105%" href="#-description">About The Mod</a></li>
-    <li><a style="font-size: 105%" href="#-installation-guide">How To Install</a></li>
+    <li><a style="font-size: 105%" href="#description">About The Mod</a></li>
+    <li><a style="font-size: 105%" href="#installation">How To Install</a></li>
     <ul>
         <li><a style="font-size: 95%" href="#quickstart-guide">Quickstart Installation Guide</a></li>
         <li><a style="font-size: 95%" href="https://www.youtube.com/watch?v=SOGHTE6jXA4">Video Installation Tutorial</a></li>
@@ -47,42 +47,42 @@
 </details>
 <br>
 
-[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#description)
+![-----------------------------------------------------](assets/LineBreak_Fire.png)
 
 <br>
 
-<h2> ⛩ <b>About The Mod</b></h2>
+<h2 id="description"> ⛩ <b>About The Mod</b></h2>
 
 Lorem ipsum dolor sit amet.
 
-[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#installation-guide)
+![-----------------------------------------------------](assets/LineBreak_Fire.png)
 
 <br>
 
-<h2> ⛩ <b>How to Install</b></h2>
+<h2 id="installation"> ⛩ <b>How to Install</b></h2>
 
 Lorem ipsum dolor sit amet.
 
-[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#changelog)
+![-----------------------------------------------------](assets/LineBreak_Fire.png)
 
 <br>
 
-<h2> ⛩ <b>Updated Changelog</b></h2>
+<h2 id="changelog"> ⛩ <b>Updated Changelog</b></h2>
 
 Lorem ipsum dolor sit amet.
 
-[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#acknowledgements)
+![-----------------------------------------------------](assets/LineBreak_Fire.png)
 
 <br>
 
-<h2> ⛩ <b>Credits and Acknowledgements</b></h2>
+<h2 id="acknowledgements"> ⛩ <b>Credits and Acknowledgements</b></h2>
 
 Lorem ipsum dolor sit amet.
 
-[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#license)
+![-----------------------------------------------------](assets/LineBreak_Fire.png)
 
 <br>
 
-<h2> ⛩ <b>License</b></h2>
+<h2 id="license"> ⛩ <b>License</b></h2>
 
 Licensed under [MIT](https://opensource.org/licenses/MIT).
