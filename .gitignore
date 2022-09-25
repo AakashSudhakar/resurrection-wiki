@@ -1,0 +1,6 @@
+# Junk Files
+.DS_Store
+*/.DS_Store
+
+# Disused Assets (Temporary)
+assets/
