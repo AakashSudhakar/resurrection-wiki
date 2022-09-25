@@ -24,8 +24,8 @@
 
 <br>
 <ol>
-    <li><a style="font-size: 105%" href="#description">About The Mod</a></li>
-    <li><a style="font-size: 105%" href="#installation-guide">How To Install</a></li>
+    <li><a style="font-size: 105%" href="#-description">About The Mod</a></li>
+    <li><a style="font-size: 105%" href="#-installation-guide">How To Install</a></li>
     <ul>
         <li><a style="font-size: 95%" href="#quickstart-guide">Quickstart Installation Guide</a></li>
         <li><a style="font-size: 95%" href="https://www.youtube.com/watch?v=SOGHTE6jXA4">Video Installation Tutorial</a></li>
@@ -42,10 +42,47 @@
         <li><a style="font-size: 95%" href="changelog/08-quests-and-NPCs/README.md">Changes to NPCs and Quests</a></li>
     </ul>
     <li><a style="font-size: 105%" href="#acknowledgements">Credits and Acknowledgements</a></li>
+    <li><a style="font-size: 105%" href="license">License</a></li>
 </ol>
 </details>
 <br>
 
-![-----------------------------------------------------](assets/LineBreak_Fire.png)
+[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#description)
 
 <br>
+
+<h2> ⛩ <b>About The Mod</b></h2>
+
+Lorem ipsum dolor sit amet.
+
+[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#installation-guide)
+
+<br>
+
+<h2> ⛩ <b>How to Install</b></h2>
+
+Lorem ipsum dolor sit amet.
+
+[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#changelog)
+
+<br>
+
+<h2> ⛩ <b>Updated Changelog</b></h2>
+
+Lorem ipsum dolor sit amet.
+
+[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#acknowledgements)
+
+<br>
+
+<h2> ⛩ <b>Credits and Acknowledgements</b></h2>
+
+Lorem ipsum dolor sit amet.
+
+[![-----------------------------------------------------](assets/LineBreak_Fire.png)](#license)
+
+<br>
+
+<h2> ⛩ <b>License</b></h2>
+
+Licensed under [MIT](https://opensource.org/licenses/MIT).
