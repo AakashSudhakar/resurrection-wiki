@@ -3,4 +3,15 @@
 */.DS_Store
 
 # Disused Assets (Temporary)
-assets/
+assets/Banner_*.png
+assets/CoverArt_EnragedWarrior.png
+assets/CoverArt_LightningArrow.png
+# assets/CoverArt_MortalBladeClash.png
+assets/CoverArt_NightjarElite.png
+assets/CoverArt_PhantomButterflies.png
+assets/CoverArt_ShinobiClash.png
+assets/CoverArt_SSILightningReversal.png
+
+# In-Progress Documentation
+changelog/*.md
+changelog/*/*.md
